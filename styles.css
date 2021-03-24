@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+svg{
+  border: 2px solid ;
+  border-radius: 10px;
+  margin:100px
+}
+/* Se utiliza grid: filas/columas para resumir templates */
+/* Se utiliza grid-template-areas: para agrupar por clases */
+/* grid-area: nombre que se le asigna para agrupar en conjunto grid template areas */
+/* justify-items: stretch/end/star/center/ alinea de en el eje X u horizonal */
+/* align-items: stretch/end/star/center/ alinea de en el eje Y o vertical */
+/* justify-self: stretch/end/star/center/ alinea de en el eje X u horizonal a un componente en especifico*/
+/* align-self: stretch/end/star/center/ alinea de en el eje Y o vertical  a un componente en especifico*/
+
+/* .container{
+   display: flex; 
+   flex-flow: row wrap;
+   height: auto;
+   width: 90%;
+ }
+
+ div{
+   display:inline-block;
+   width: auto;
+ }
+ 
+ .row{
+     margin: 1px; 
+     padding: 3px;
+     height: auto;
+     width: 100%;
+     border: 1px solid black;
+     text-align: center;
+ }
+
+ .col-1{width: 8.33%;}
+ .col-2{width: 16.66%;}
+ .col-3{width: 25%;}
+ .col-4{width: 33.32%;}
+ .col-5{width: 41.65%;}
+ .col-6{width: 50%;}
+ .col-7{width: 58.33%;}
+ .col-8{width: 66.66%;}
+ .col-9{width: 75%;}
+ .col-10{width: 83.33%;}
+ .col-11{width: 91.66%;}
+ .col-12{width: 100%;}
+
+  [class*="col-"]{
+    border: 1px solid red;
+  }
+
+  @media  (max-width:768px){
+     [class*="col-"]{
+        width: 100%;
+        border: 1px solid purple;
+      }
+
+    
+  } */
+
