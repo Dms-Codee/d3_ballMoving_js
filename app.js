@@ -48,15 +48,5 @@ var x=0
 
 
 
-  // var xhr = new XMLHttpRequest();
-  // xhr.onreadystatechange = function () {
-  //     if(this.readyState == 4 && this.status==200){
-  //        console.log("Respuesta correcta")
-        
-  //        console.log(JSON.parse(this.responseText));
 
-  //     }
-  // };
-  // xhr.open("GET","https://script.google.com/macros/s/AKfycbzQm4c9DH-v9i77b9yiDR7ipB_ydbqKK86nO7Bp1nC5zjtrjWCkmW7e/exec" , true);
-  // xhr.send();
 
